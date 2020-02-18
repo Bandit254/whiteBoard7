@@ -41,9 +41,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizAnswers_11FEB2020", "..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I am Once Again Testing my GitHub Repository", "I am Once Again Testing my GitHub Repository\I am Once Again Testing my GitHub Repository.csproj", "{797B3117-FABE-433B-BA00-7BE962FD1616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabeticalCharacters", "..\AlphabeticalCharacters\AlphabeticalCharacters.csproj", "{B86F5B6C-2ECD-4447-8345-2D9BA19B86DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabeticalCharacters", "..\AlphabeticalCharacters\AlphabeticalCharacters.csproj", "{B86F5B6C-2ECD-4447-8345-2D9BA19B86DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabeticalCharacterStringWhiteboard", "AlphabeticalCharacterStringWhiteboard\AlphabeticalCharacterStringWhiteboard.csproj", "{65308465-EDBB-4F97-A378-834D1A28E8B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabeticalCharacterStringWhiteboard", "AlphabeticalCharacterStringWhiteboard\AlphabeticalCharacterStringWhiteboard.csproj", "{65308465-EDBB-4F97-A378-834D1A28E8B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseStringWBPractice", "ReverseStringWBPractice\ReverseStringWBPractice.csproj", "{286759E5-A606-46C1-9522-21B8F3449601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistinctElementsInArray", "DistinctElementsInArray\DistinctElementsInArray.csproj", "{A8B2D9F7-D259-46C3-BB14-C2DE1959FBB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapVariables", "SwapVariables\SwapVariables.csproj", "{84644FFE-E255-440B-AB03-40C46C705750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +141,18 @@ Global
 		{65308465-EDBB-4F97-A378-834D1A28E8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65308465-EDBB-4F97-A378-834D1A28E8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65308465-EDBB-4F97-A378-834D1A28E8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286759E5-A606-46C1-9522-21B8F3449601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286759E5-A606-46C1-9522-21B8F3449601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286759E5-A606-46C1-9522-21B8F3449601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286759E5-A606-46C1-9522-21B8F3449601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B2D9F7-D259-46C3-BB14-C2DE1959FBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B2D9F7-D259-46C3-BB14-C2DE1959FBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B2D9F7-D259-46C3-BB14-C2DE1959FBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B2D9F7-D259-46C3-BB14-C2DE1959FBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84644FFE-E255-440B-AB03-40C46C705750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84644FFE-E255-440B-AB03-40C46C705750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84644FFE-E255-440B-AB03-40C46C705750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84644FFE-E255-440B-AB03-40C46C705750}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
