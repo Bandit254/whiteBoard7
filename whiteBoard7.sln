@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SelectionS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parameter_Arrays", "Parameter_Arrays\Parameter_Arrays.csproj", "{F99B3774-CC67-4298-9F3C-0CA99AEB9444}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingCoins", "CountingCoins\CountingCoins.csproj", "{ABE24214-E767-43AB-A8D4-DB31213D73CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingCoins", "CountingCoins\CountingCoins.csproj", "{ABE24214-E767-43AB-A8D4-DB31213D73CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyArray", "CopyArray\CopyArray.csproj", "{23AA536F-802B-49FA-97EB-2E867454D45B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{ABE24214-E767-43AB-A8D4-DB31213D73CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE24214-E767-43AB-A8D4-DB31213D73CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE24214-E767-43AB-A8D4-DB31213D73CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AA536F-802B-49FA-97EB-2E867454D45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AA536F-802B-49FA-97EB-2E867454D45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AA536F-802B-49FA-97EB-2E867454D45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AA536F-802B-49FA-97EB-2E867454D45B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
