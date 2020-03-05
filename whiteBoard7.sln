@@ -43,7 +43,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMirrorImage", "String
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClockAngle", "ClockAngle\ClockAngle.csproj", "{EC35B32B-4B28-4E6C-B4E2-4D8FC947E7B4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLockAngleTest", "CLockAngleTest\CLockAngleTest.csproj", "{58858025-C19B-4C61-9373-22774409BA9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClockAngleTest", "CLockAngleTest\ClockAngleTest.csproj", "{58858025-C19B-4C61-9373-22774409BA9A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "InterfaceExample\InterfaceExample.csproj", "{D789CC89-449F-49BF-9918-7A6E05DCB99A}"
 EndProject

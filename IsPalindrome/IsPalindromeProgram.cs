@@ -4,17 +4,7 @@ namespace IsPalindrome
 {
     class Program
     {
-        public static bool IsPalindrome(string input)
-        {
-            int j = input.Length-1;
-            for (int i = 0; i < input.Length; i++)
-            {
-                if (input[i] != input[j--])
-                    return false;
-            }
-            return true;
-        }
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             string input = "racecar";
@@ -26,5 +16,17 @@ namespace IsPalindrome
             input = "mom";
             Console.WriteLine($"mom? {IsPalindrome(input)}");
         }
+
+        public static bool IsPalindrome(string input)
+        {
+            int j = input.Length-1;
+            for (int i = 0; i < input.Length; i++)
+            {
+                if (input[i] != input[j--])
+                    return false;
+            }
+            return true;
+        }
+
     }
 }

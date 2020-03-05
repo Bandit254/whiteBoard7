@@ -1,5 +1,4 @@
 ﻿using System;
-using PrimeNumberWhiteboard;
 namespace SumOfPrimes
 {
     class SumOfPrimesProgram

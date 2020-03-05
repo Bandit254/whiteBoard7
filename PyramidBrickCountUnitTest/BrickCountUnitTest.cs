@@ -1,6 +1,3 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PyramidBrickCount;
-
 namespace PyramidBrickCountUnitTest
 {
     [TestClass]
