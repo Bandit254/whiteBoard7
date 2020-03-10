@@ -45,7 +45,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClockAngle", "ClockAngle\Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClockAngleTest", "CLockAngleTest\ClockAngleTest.csproj", "{58858025-C19B-4C61-9373-22774409BA9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "InterfaceExample\InterfaceExample.csproj", "{D789CC89-449F-49BF-9918-7A6E05DCB99A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceExample", "InterfaceExample\InterfaceExample.csproj", "{D789CC89-449F-49BF-9918-7A6E05DCB99A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterPosition", "CharacterPosition\CharacterPosition.csproj", "{FE6A2AC5-0D31-46A8-A1B8-AF77B6E8A3F8}"
 EndProject
@@ -66,6 +66,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfPrimes", "SumOfPrimes\SumOfPrimes.csproj", "{7667D989-F5D6-4150-862F-BB2984C3267F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pie_Estimator", "Pie_Estimator\Pie_Estimator.csproj", "{BC0A6DEF-14DB-44B4-9DB8-882D50E29F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCapitalLetters", "CountCapitalLetters\CountCapitalLetters.csproj", "{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{BC0A6DEF-14DB-44B4-9DB8-882D50E29F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC0A6DEF-14DB-44B4-9DB8-882D50E29F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC0A6DEF-14DB-44B4-9DB8-882D50E29F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
