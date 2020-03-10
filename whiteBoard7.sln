@@ -69,6 +69,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pie_Estimator", "Pie_Estima
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCapitalLetters", "CountCapitalLetters\CountCapitalLetters.csproj", "{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountLetters", "CountLetters\CountLetters.csproj", "{7994447D-6813-452C-9AAF-0E6505F1A683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountLettersTest", "CountLettersTest\CountLettersTest.csproj", "{4619DB57-2C90-463C-B63E-C425AFCBAB1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +211,14 @@ Global
 		{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7994447D-6813-452C-9AAF-0E6505F1A683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7994447D-6813-452C-9AAF-0E6505F1A683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7994447D-6813-452C-9AAF-0E6505F1A683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7994447D-6813-452C-9AAF-0E6505F1A683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4619DB57-2C90-463C-B63E-C425AFCBAB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4619DB57-2C90-463C-B63E-C425AFCBAB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4619DB57-2C90-463C-B63E-C425AFCBAB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4619DB57-2C90-463C-B63E-C425AFCBAB1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
