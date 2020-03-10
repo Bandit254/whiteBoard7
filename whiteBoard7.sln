@@ -67,11 +67,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfPrimes", "SumOfPrimes\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pie_Estimator", "Pie_Estimator\Pie_Estimator.csproj", "{BC0A6DEF-14DB-44B4-9DB8-882D50E29F6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCapitalLetters", "CountCapitalLetters\CountCapitalLetters.csproj", "{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountCapitalLetters", "CountCapitalLetters\CountCapitalLetters.csproj", "{7EF6A72E-EF74-4710-8AD3-677CDBB6B193}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountLetters", "CountLetters\CountLetters.csproj", "{7994447D-6813-452C-9AAF-0E6505F1A683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountLetters", "CountLetters\CountLetters.csproj", "{7994447D-6813-452C-9AAF-0E6505F1A683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountLettersTest", "CountLettersTest\CountLettersTest.csproj", "{4619DB57-2C90-463C-B63E-C425AFCBAB1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountLettersTest", "CountLettersTest\CountLettersTest.csproj", "{4619DB57-2C90-463C-B63E-C425AFCBAB1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockAngleVersion2", "ClockAngleVersion2\ClockAngleVersion2.csproj", "{61F1C849-83C2-448B-94D9-D402FF10DAA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsLeapYear", "IsLeapYear\IsLeapYear.csproj", "{354D203D-587F-4EE3-85DC-53BDAA3C8684}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +223,14 @@ Global
 		{4619DB57-2C90-463C-B63E-C425AFCBAB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4619DB57-2C90-463C-B63E-C425AFCBAB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4619DB57-2C90-463C-B63E-C425AFCBAB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F1C849-83C2-448B-94D9-D402FF10DAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F1C849-83C2-448B-94D9-D402FF10DAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F1C849-83C2-448B-94D9-D402FF10DAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F1C849-83C2-448B-94D9-D402FF10DAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354D203D-587F-4EE3-85DC-53BDAA3C8684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354D203D-587F-4EE3-85DC-53BDAA3C8684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354D203D-587F-4EE3-85DC-53BDAA3C8684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354D203D-587F-4EE3-85DC-53BDAA3C8684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
