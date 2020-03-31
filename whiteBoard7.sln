@@ -87,9 +87,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapitalLetterCount", "Capit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapitalLetterCountTest", "CapitalLetterCountTest\CapitalLetterCountTest.csproj", "{5F8B5B5A-591A-4289-9F8E-C36C734D7C68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortIntegerArray", "SortIntegerArray\SortIntegerArray.csproj", "{07AF2046-676A-43B6-87AB-A9A029C75D58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortIntegerArray", "SortIntegerArray\SortIntegerArray.csproj", "{07AF2046-676A-43B6-87AB-A9A029C75D58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseCase", "ReverseCase\ReverseCase.csproj", "{7D399B77-0D1F-4E80-A928-CCE9A676695D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseCase", "ReverseCase\ReverseCase.csproj", "{7D399B77-0D1F-4E80-A928-CCE9A676695D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnLongestWord", "ReturnLongestWord\ReturnLongestWord.csproj", "{16D6842E-C4C2-49A2-8128-CB886569C14D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +275,10 @@ Global
 		{7D399B77-0D1F-4E80-A928-CCE9A676695D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D399B77-0D1F-4E80-A928-CCE9A676695D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D399B77-0D1F-4E80-A928-CCE9A676695D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D6842E-C4C2-49A2-8128-CB886569C14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D6842E-C4C2-49A2-8128-CB886569C14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D6842E-C4C2-49A2-8128-CB886569C14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D6842E-C4C2-49A2-8128-CB886569C14D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
