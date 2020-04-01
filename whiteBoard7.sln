@@ -91,7 +91,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortIntegerArray", "SortInt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseCase", "ReverseCase\ReverseCase.csproj", "{7D399B77-0D1F-4E80-A928-CCE9A676695D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnLongestWord", "ReturnLongestWord\ReturnLongestWord.csproj", "{16D6842E-C4C2-49A2-8128-CB886569C14D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReturnLongestWord", "ReturnLongestWord\ReturnLongestWord.csproj", "{16D6842E-C4C2-49A2-8128-CB886569C14D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumber", "ReverseNumber\ReverseNumber.csproj", "{FB84C3BF-8BD0-435D-BC70-4BCE62884D00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{16D6842E-C4C2-49A2-8128-CB886569C14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16D6842E-C4C2-49A2-8128-CB886569C14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16D6842E-C4C2-49A2-8128-CB886569C14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB84C3BF-8BD0-435D-BC70-4BCE62884D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB84C3BF-8BD0-435D-BC70-4BCE62884D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB84C3BF-8BD0-435D-BC70-4BCE62884D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB84C3BF-8BD0-435D-BC70-4BCE62884D00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
