@@ -95,7 +95,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReturnLongestWord", "Return
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseNumber", "ReverseNumber\ReverseNumber.csproj", "{FB84C3BF-8BD0-435D-BC70-4BCE62884D00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortStringArray", "SortStringArray\SortStringArray.csproj", "{8DC9EBCA-FC6C-4630-A0E5-48823BDC9915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortStringArray", "SortStringArray\SortStringArray.csproj", "{8DC9EBCA-FC6C-4630-A0E5-48823BDC9915}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz09APR2020", "Quiz09APR2020\Quiz09APR2020.csproj", "{F2120C6D-380B-4CFF-A9AB-A13D8744B499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftCypher", "ShiftCypher\ShiftCypher.csproj", "{204A9C90-D8C0-4CC8-9DA4-7437029F382B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +295,14 @@ Global
 		{8DC9EBCA-FC6C-4630-A0E5-48823BDC9915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DC9EBCA-FC6C-4630-A0E5-48823BDC9915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DC9EBCA-FC6C-4630-A0E5-48823BDC9915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2120C6D-380B-4CFF-A9AB-A13D8744B499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2120C6D-380B-4CFF-A9AB-A13D8744B499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2120C6D-380B-4CFF-A9AB-A13D8744B499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2120C6D-380B-4CFF-A9AB-A13D8744B499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204A9C90-D8C0-4CC8-9DA4-7437029F382B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204A9C90-D8C0-4CC8-9DA4-7437029F382B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204A9C90-D8C0-4CC8-9DA4-7437029F382B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204A9C90-D8C0-4CC8-9DA4-7437029F382B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
