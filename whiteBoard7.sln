@@ -99,7 +99,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortStringArray", "SortStri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz09APR2020", "Quiz09APR2020\Quiz09APR2020.csproj", "{F2120C6D-380B-4CFF-A9AB-A13D8744B499}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftCypher", "ShiftCypher\ShiftCypher.csproj", "{204A9C90-D8C0-4CC8-9DA4-7437029F382B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShiftCypher", "ShiftCypher\ShiftCypher.csproj", "{204A9C90-D8C0-4CC8-9DA4-7437029F382B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSortV2", "SelectionSortV2\SelectionSortV2.csproj", "{B2A2ADA5-8446-4B77-A597-16B1022FF748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{204A9C90-D8C0-4CC8-9DA4-7437029F382B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{204A9C90-D8C0-4CC8-9DA4-7437029F382B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{204A9C90-D8C0-4CC8-9DA4-7437029F382B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A2ADA5-8446-4B77-A597-16B1022FF748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A2ADA5-8446-4B77-A597-16B1022FF748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A2ADA5-8446-4B77-A597-16B1022FF748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A2ADA5-8446-4B77-A597-16B1022FF748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
