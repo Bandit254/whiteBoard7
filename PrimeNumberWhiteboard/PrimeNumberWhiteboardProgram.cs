@@ -22,7 +22,7 @@ namespace PrimeNumberWhiteboard
         static void Main(string[] args)
         {
             Console.WriteLine("Determining if a Number is a Prime Number");
-            int number = 53427;
+            int number = 73;
             IsPrime(number);
             Console.WriteLine($"{number} is a prime number: {IsPrime(number)}");
 
